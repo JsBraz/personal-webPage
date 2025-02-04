@@ -1,0 +1,24 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Josué Braz_software_engineer.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I am a <span class='underline'>software engineer</span> from Porto, passionate about coding, learning, and bringing interesting ideas to life. Solving problems one line of code at a time! I'm passionate about <span class='underline'>backend</span> development and <span class='underline'>DevOps</span>, with a strong focus on scalable, high-performance systems. I love building robust APIs & microservices and ensuring smooth cloud & infrastructure operations.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "I strive to stay at the cutting edge of technology \nand continuously advance my skills in the ever-evolving field of software \ndevelopment.",
+    "My background in computer systems engineering, coupled with \na strong interest in mobile computing, has equipped me with a broad and \nversatile understanding of modern technologies. I am always eager to expand \nmy knowledge and explore innovative solutions to complex problems",
+    "Remaining at the forefront of technology is a personal priority. I take pride in \nexploring new tools and patterns that enhance the performance, security, and \nusability of software applications. With a sharp eye for detail and a commitment \nto industry best practices, I consistently deliver high-quality, impactful results \nthat address the unique needs of each project",
+    "My goal is to contribute to a forward-thinking organization that values innovation \nand collaboration. By leveraging my skills and insights, I aim to build exceptional \nsoftware, embrace meaningful challenges, and grow as a versatile and innovative \nprofessional in the field of software engineering",
+    "Some of the technologies I have worked in include: "
+  ],
+
+  "Contact.Pretitle": "Want to get in touch?",
+  "Contact.Title": "Reach out!",
+  "Contact.Content": "I will gladly speak to you in case you are interested. Shoot me an email and I'll get back to you as soon as i can",
+  "Contact.Btn": "Contact Me"
+}

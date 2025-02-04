@@ -1,0 +1,14 @@
+/* Global Styles */
+body {
+  background-color: #2d2a2e !important; /* Monokai-like dark background */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #f4f4f9; /* Light color for text */
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* Full height to ensure body fills the screen */
+}
+
+/* Ensure the container has proper spacing */
+.container {
+  padding-top: 50px;
+}
