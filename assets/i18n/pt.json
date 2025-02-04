@@ -1,0 +1,23 @@
+{
+  "Header.Item1": "Sobre mim",
+  "Header.Item2": "Contacta-me",
+  "Header.cvBtn": "Curriculum",
+  "Header.cvName": "CV_Josué Braz_software_engineer.pdf",
+
+  "Banner.Pretitle": "Olá! O meu nome é",
+  "Banner.Description": "Sou um <span class='underline'>engenheiro de software</span> do Porto, apaixonado por programação, aprender e transformar ideias interessantes em realidade. A resolver problemas uma linha de código de cada vez! Sou apaixonado por desenvolvimento <span class='underline'>backend </span> e <span class='underline'>DevOps</span>, com um forte foco em sistemas escaláveis e de alto desempenho. Adoro construir APIs e microserviços robustos e garantir operações eficientes de infraestrutura e cloud.",
+  "Banner.ActionBtn": "Vem conhecer-me",
+
+  "AboutMe.Title": "Sobre mim",
+  "AboutMe.Paragraphs": [
+    "A minha formação em engenharia informática, aliada a \num forte interesse em computação móvel, proporcionou-me um conhecimento amplo e \nversátil sobre as tecnologias modernas. Estou sempre ansioso para expandir o \nmeu conhecimento e explorar soluções inovadoras para problemas complexos",
+    "Permanecer na vanguarda da tecnologia é uma prioridade pessoal. Tenho orgulho em \nexplorar novas ferramentas e padrões que aprimoram o desempenho, a segurança e a \nusabilidade de aplicações de software. Com um olhar atento aos detalhes e um compromisso \ncom as melhores práticas da indústria, entrego consistentemente resultados de alta qualidade e impacto, \natendendo às necessidades exclusivas de cada projeto",
+    "O meu objetivo é contribuir para uma organização visionária que valorize inovação \ne colaboração. Ao aproveitar as minhas habilidades e insights, busco criar software excepcional, \nabraçar desafios significativos e crescer como um profissional versátil e inovador \nna área de engenharia de software",
+    "Algumas das tecnologias com as quais trabalhei incluem: "
+  ],
+
+  "Contact.Pretitle": "Queres entrar em contacto?",
+  "Contact.Title": "Reach out!",
+  "Contact.Content": "Terei o maior prazer em conversar caso tenhas interesse. Envia-me um e-mail e responderei assim que possível!",
+  "Contact.Btn": "contacta-me"
+}
