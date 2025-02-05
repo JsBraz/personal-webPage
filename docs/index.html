@@ -15,4 +15,15 @@
   <app-root></app-root>
   <noscript>Please enable JavaScript to continue using this application.</noscript>
 <script src="runtime.92cf5ab583db4647.js" type="module"></script><script src="polyfills.13d297e975a7cf98.js" type="module"></script><script src="scripts.68ed26d13e2edc19.js" defer></script><script src="main.b65e3f686abc6c4e.js" type="module"></script></body>
+
+<script>
+  (function() {
+    var urlParams = new URLSearchParams(window.location.search);
+    var redirectPath = urlParams.get('redirect');
+    if (redirectPath) {
+      history.replaceState(null, '', redirectPath);
+    }
+  })();
+</script>
+
 </html>
